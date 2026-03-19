@@ -1,0 +1,1 @@
+{\n  "name": "flipabird-game",\n  "version": "1.0.0",\n  "description": "A 3D Flappy Bird game using Three.js",\n  "main": "main.js",\n  "scripts": {\n    "start": "node main.js"\n  },\n  "dependencies": {\n    "three": "^0.140.0"\n  }\n}
